@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=immortal-sniper1&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats" />
-<img  align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-sniper1&theme=midnight-purple&langs_count=10" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=immortal-sniper1&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats" />
+<img  align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immortal-sniper1&theme=midnight-purple&langs_count=10" />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<img align="left"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img align="left"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 
 
@@ -36,4 +39,4 @@ Here are some ideas to get you started:
 
 
 🌱 I’m currently learning 
-Rust 	![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
